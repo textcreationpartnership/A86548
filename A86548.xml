@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the blasphemie against the Holy-Ghost.</title>
+            <author>Hales, John, 1584-1656.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86548</idno><idno type="EEBO-CITATION">99861288</idno>
+  <idno type="VID">159515</idno>
+  <idno type="EEBO-PROQUEST">2240882446</idno>
+  
+            <idno type="STC">Wing H273</idno>
+            <idno type="STC">Thomason E322_1</idno>
+            <idno type="STC">ESTC R200574</idno>
+            <idno type="PROQUEST">99861288</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861288e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159515)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E322[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the blasphemie against the Holy-Ghost.</title>
+                  <author>Hales, John, 1584-1656.</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Hales by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "feb 9th London 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Holy Spirit --  Early works to 1800.</term>
+               <term type="topical_term">Sin, Unpardonable --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159515:1"/>
+            <p>OF THE BLASPHEMIE Against the HOLY-GHOST.</p>
+            <p>Printed in the Yeare, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159515:2"/>
+            <pb n="1" facs="tcp:159515:2"/>
+            <head>Of the Blasphemie against the HOLY GHOST.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Any have written of the <hi>Sinne against the Holy Ghost,</hi> who in defining or descri<g ref="char:EOLhyphen"/>bing of it, follow onely their owne <hi>zealous conceits,</hi> and not the <hi>Canon</hi> of holy <hi>Scripture:</hi> The more dreadfull the sinne is, the fearfuller we must be in the charging, or fixing of it upon any speciall Crime, or parti<g ref="char:EOLhyphen"/>cular person. In the definition of a sinne of so hei<g ref="char:EOLhyphen"/>nous a nature, direct and evident proof of Scrip<g ref="char:EOLhyphen"/>ture is requisit. It is not enough to consider (as many doe) what sinnes are most desperate, and dead<g ref="char:EOLhyphen"/>ly, and then to conclude, that such sinnes are <hi>sinnes against the H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly Ghost:</hi> Thus indeed the Schoole-men have done, who have made six differences of this sinne, without any colour of ground, or warrant in Scripture for so doing: And <hi>Bellarmine</hi> is so liberall in bestowing this <hi>sinne against the Holy Ghost</hi> upon such as he calls Heretiques, that his opinion is, <hi>That a man can scarce be a learned Protestant, without committing the sinne against the Holy Ghost;</hi> Neither are the <hi>Papists</hi> the onely men that have beene mistaken about this
+<pb n="2" facs="tcp:159515:3"/> sinne, but too many Divines of the Reformed Chur<g ref="char:EOLhyphen"/>ches have started a side from the Scripture, and given us such intricate and contradictory definitions of this sinne, as tend onely to the perplexing of the ten<g ref="char:EOLhyphen"/>der consciences of weake Christians. To make good this <hi>censure,</hi> I will briefly set downe so much touch<g ref="char:EOLhyphen"/>ing this sin, as I conceive is warranted by the Word of God, and humbly submit it to the Judgement of the Learned.</p>
+            <div type="part">
+               <head>The Blasphemie against the Holy Ghost, was an evill speaking or slan<g ref="char:EOLhyphen"/>dering of the Miracles of our Saviour Christ, by those, who though they were convinced by the Mira<g ref="char:EOLhyphen"/>cles, to believe that such Workes could not be done but by the Power of God; yet they did maliciously say, they were wrought by the Power of the Divell.</head>
+               <p>In this description, these points are observa<g ref="char:EOLhyphen"/>ble:</p>
+               <p>First, I forbeare to call it the <hi>sinne,</hi> but name it
+<pb n="3" facs="tcp:159515:3"/> the <hi>Blasphemie against the Holy Ghost:</hi> for though eve<g ref="char:EOLhyphen"/>ry blasphemy be a sinne in the generall, yet our Savi<g ref="char:EOLhyphen"/>our Christ tearmes it onely the blasphemy, and the <hi>Evangelists</hi> doe all agree, to give it onely the same tearme; and it is no where in all the Scripture called the <hi>sinne against the Holy Ghost:</hi> and yet it appeares, both in Saint <hi>Mathew,</hi> and Saint <hi>Mark,</hi> that there was just occasion offered for our Saviour to have named it the <hi>sin against the Holy Ghost;</hi> where he com<g ref="char:EOLhyphen"/>pares, with the <hi>sinne against the Sonne of Man:</hi> but he forbeares to call it any thing but, the <hi>Blasphemie against the Holy Ghost:</hi> Thereby no doubt, to teach us, that it consists onely in cursed speaking, or blas<g ref="char:EOLhyphen"/>pheming. A serious consideration of this point, may teach us so much moderation, as to confine our selves to that tearme which our Saviour in three <hi>Evangelists</hi> hath prescribed unto us. I cannot find, that any man that hath yet written of this Argu<g ref="char:EOLhyphen"/>ment, hath made any observation, or noted this con<g ref="char:EOLhyphen"/>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt phrase and tearme used by the <hi>Evangelists,</hi> in pro<g ref="char:EOLhyphen"/>nouncing the dreadfull sentence of our Saviour a<g ref="char:EOLhyphen"/>gainst <hi>Blasphemers of the Holy Ghost:</hi> I will there<g ref="char:EOLhyphen"/>fore cite all those Texts, where the <hi>Blaspheming a<g ref="char:EOLhyphen"/>gainst the Holy Ghost</hi> is named: <hi>Mathew</hi> 12.31. <hi>All manner of Sinne and Blasphemy shalbe forgiven unto men, but the Blasphemy against the Holy Ghost.</hi>
+               </p>
+               <p>Mark. 3. 28. <hi>All sines shal be forgiven the Sonnes of men, and Blasphemies wherewith soever they blaspheme; but he that shall blaspheme against the Holy Ghost, hath never forgivenesse, but is in danger of eternall damnation.</hi>
+               </p>
+               <pb n="4" facs="tcp:159515:4"/>
+               <p>Luke 12.10. <hi>Whosoever shall speake a word against the sonne of man, it shall be forgiven him, but u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>to him that blasphemeth against the Holy Ghost, it shall not be forgiven him.</hi>
+               </p>
+               <p>Secondly, a second observation is, that <hi>Blaspheming is a speaking against an ther,</hi> as both Saint <hi>Mathew</hi> and Saint <hi>Luke</hi> expound the word; for in the ori<g ref="char:EOLhyphen"/>ginall it is, <hi>a hurting or blasting the fame, or blaming of another;</hi> for, from the <hi>Greeke</hi> word <hi>Blaspheme,</hi> both the <hi>French,</hi>
+                  <note place="margin">Blasme <hi>Biasimo</hi>
+                  </note>
+                  <hi>Italian,</hi> and our <hi>English,</hi> by contracti<g ref="char:EOLhyphen"/>on, have made our word <hi>Blame.</hi>
+                  <note place="margin">Blame</note>
+               </p>
+               <p>Thirdly, to passe from the name, to the thing it selfe, wee may observe by the coherence of the Texts, that the <hi>Blasphemie against the Holy Ghost</hi> was spoken by our blessed <hi>Saviour</hi> concerning the <hi>Scribes</hi> and <hi>Pharisees,</hi> for Saint <hi>Mark</hi> tells us in plaine tearmes the reason was, because the <hi>Pharisees</hi> said, <hi>he had an uncleane spirit:</hi> For, when they saw our <hi>Saviour cast out a Divell, blind and dumb, to the amaze<g ref="char:EOLhyphen"/>ment of the people, they said, he cast out the Divell by Belzebub, the Prince of Divels:</hi> This speech of the <hi>Pharisees,</hi> whereby they slandered his Miracles wrought by the power of the <hi>Holy Ghost,</hi> is proper<g ref="char:EOLhyphen"/>ly the <hi>Blasphemie against the Holy Ghost.</hi> How trans<g ref="char:EOLhyphen"/>cendent a Crime it was, to traduce that power by which our <hi>Saviour</hi> wrought his Miracles, may thus appeare.</p>
+               <p>The end for which Miracles were wrought, was most evidently to prove, that <hi>Iesus</hi> was the <hi>Messias,</hi> that the multitude beholding with their eyes the workes which he wrought, might thereby be led
+<pb n="5" facs="tcp:159515:4"/> to believe the doctrine which he taught; there be store of Texts to prove this: <hi>The workes I doe in my Fathers name, beare witnesse of me; If I doe not the workes of my Father, believe me not; though you believe not me, believe the workes,</hi> John 10. John 14. <hi>Be<g ref="char:EOLhyphen"/>lieve me, that I am in the Father, or else believe me for the very workes sake.</hi> When the Disciples of <hi>John</hi> asked, <hi>Art thou he? Iesus answered, Goe shew Iohn those things which you see and heare, the blind receive their sight, the lame walke,</hi> Mathew 11. When the multi<g ref="char:EOLhyphen"/>tude beheld his Miracles, they mervailed, and said, <hi>It was never so seene in Israel; since the world began was it not heard, that any man opened the eyes of one borne blind,</hi> John 9. A woman could say, <hi>Come see a man that told me all things, Is this the Christ?</hi> John 4.29. So they that saw the Miracles of the <hi>Loaves,</hi> could say, <hi>Is this that Prophet which is to come? Nicodemus</hi> the <hi>Pharisee</hi> saith, <hi>Rabbi, no man can doe those things that thou dost, except God be with him.</hi> These and other places shew, that the working of Miracles was an act of the most glorious manifestation of the pow<g ref="char:EOLhyphen"/>er and Majestie of God, by which at the first even the simplest of men were led by their <hi>outward sense,</hi> to that great mysterie of <hi>inward Faith in Christ</hi> their Redeemer. Therefore, for those men who were eye<g ref="char:EOLhyphen"/>witnesses of such Miracles, as did make them know that <hi>Christ was a Teacher come from God,</hi> to blas<g ref="char:EOLhyphen"/>pheme that Power by which those Miracles were wrought, and to say, they were done by the helpe of the Divell, was the most despitefull and malici<g ref="char:EOLhyphen"/>ous slander that could be invented; for thereby
+<pb n="6" facs="tcp:159515:5"/> they attempted, as much as in them lay, to destroy the very Principles of Faith, and to prevent the first propagation of the Gospell, to the universall mischiefe of all man-kind: And though these <hi>Pha<g ref="char:EOLhyphen"/>risees</hi> were no <hi>Christians,</hi> and therefore could not fall away from Faith, which they never had, yet they did know and believe, that <hi>Christ was a Teacher come from God;</hi> for so our <hi>Saviour</hi> tells them, <hi>Iohn</hi> 7.28. <hi>Ye both know me, and whence I am.</hi> They did not be<g ref="char:EOLhyphen"/>lieve in him as a <hi>Saviour,</hi> but as a great Prophet from God, as the <hi>Mahumetans</hi> doe at this day: They trusted to be saved by their Law, and because he taught such things as did abrogate their Law, in which they so much gloried, they were so malicious to his Doctrine, which they did not believe, that they did speake evill of his Miracles, which they did believe; lest the people, by approving of his Miracles, should have Faith in his Doctrine.</p>
+               <p>Fourthly, observe; It is said to be the <hi>Blas<g ref="char:EOLhyphen"/>phemie against the Holy Ghost,</hi> because by the pow<g ref="char:EOLhyphen"/>er of the <hi>Spirit,</hi> or <hi>Holy Ghost,</hi> the Miracles were wrought: for our <hi>Saviour</hi> saith, Mathew 10.28. <hi>If I cast out Divells by the Spirit of God;</hi> and Saint <hi>Paul</hi> teacheth us, that <hi>the working of Miracles is by the same spirit,</hi> 1. Cor. 12.</p>
+               <p>Fifthly, the <hi>Blasphemie against the Sonne of man</hi> was, when men considered <hi>Christ</hi> as a meere man, and did disgracefully taxe his conversation, by saying, <hi>Behold a glutton, a bibber of Wine, a friend to Publicans and Sinners:</hi> but, <hi>The Blasphemie against the Holy Ghost</hi> was, when men beholding <hi>Christs Miracles,</hi> did enviously
+<pb n="7" facs="tcp:159515:5"/> ascribe those workes to the Divell, which they did know and believe to be done by the <hi>Power of God.</hi>
+               </p>
+               <p>Sixthly, these Texts formerly recited out of the three <hi>Evangelists,</hi> being all the places wherein the <hi>Blasphemie against the Holy-Ghost</hi> is named; wee cannot find by them, that wee have any safe rule to conclude, that any but the <hi>Scribes</hi> and <hi>Pharisees,</hi> or their confederates, committed the <hi>Blasphemie a<g ref="char:EOLhyphen"/>gainst the Holy-Ghost:</hi> I dare not say, that <hi>Iudas,</hi> or those that stoned <hi>Stephen,</hi> or <hi>Iulian</hi> the <hi>Apostate,</hi> or <hi>Simon Magus,</hi> were any of them guilty of this de<g ref="char:EOLhyphen"/>testable <hi>Blasphemie.</hi>
+               </p>
+               <p>Seventhly, The Apostles have not in any of their Epistles once mentioned this <hi>Blasphemie against the Holy-Ghost,</hi> and yet they were most carefull and fre<g ref="char:EOLhyphen"/>quent in dehortations from all sorts of sinne; it were much, they should forget, or omit such a feare<g ref="char:EOLhyphen"/>full Crime, without often and most precise ad<g ref="char:EOLhyphen"/>monishing us to beware of it: And though nega<g ref="char:EOLhyphen"/>tive proofes from Scripture are not demonstrative, yet the generall silence of the Apostles may at least helpe to inferre a probability, that the <hi>Blas<g ref="char:EOLhyphen"/>phemie against the Holy-Ghost</hi> is not a sinne committa<g ref="char:EOLhyphen"/>ble by any Christian that lived not in the time of our Saviour.</p>
+            </div>
+            <div type="part">
+               <p>THere be three places or Texts in the Epistles, wherein although the <hi>Blasphemie against the Holy-Ghost</hi>
+                  <pb n="8" facs="tcp:159515:6"/> be not named, yet most thinke it is intended and meant in each of those places: And <hi>Bellarmine</hi> (in confuting Saint <hi>Austins</hi> opinion, who held that <hi>finall impenitencie</hi> was the <hi>sinne against the Holy-Ghost</hi>) affirmes, that it seemes the three Texts in the Epistles, are spoken of the <hi>sinne against the Holy-Ghost;</hi> and yet this great Cardinall forgetting what he hath said in the same Chapter, contradicteth himselfe, and shewes how that these three places are not to be expounded of that sinne. I will cite the Texts, and then his interpretation of them, according to the exposition of Saint <hi>Ambrose,</hi> Saint <hi>Chrysostome,</hi> Saint <hi>Ierom,</hi> and other Fathers, as he saith:</p>
+               <p>The first Text is, <hi>Hebrewes</hi> 6.4. <hi>It is impossible for they who were once enlightned—if they shall fall away, to renew them againe to repentance, seeing they Crucifie to themselves the Sonne of God afresh:</hi> The Apostle here speakes onely of repentance, which did goe before <hi>Baptisme;</hi> for so <hi>Chrysostome, Ambrose,</hi> and other Fathers expound it: which the Apostle insinuates,</p>
+               <p>First, in those words <hi>[who were once enlightned]</hi> that is, <hi>Baptized;</hi> for antiently to be illuminated, signified to be <hi>Baptized.</hi>
+               </p>
+               <p>Secondly, in those words <hi>[to renew againe]</hi> for wee are properly renewed in <hi>Baptisme.</hi>
+               </p>
+               <p>Thirdly, in those words <hi>[crucifying the Sonne of God afresh]</hi> for when we are <hi>baptized, wee are conformed to the likenesse of his death,</hi> Rom. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.
+<pb n="9" facs="tcp:159515:6"/> and as Christ was onely once crucified, so also wee are onely once <hi>baptized;</hi> and he that will be againe <hi>baptized,</hi> should againe crucifie to himselfe <hi>Christ.</hi> Let me adde this, that in the verses going next before this Text, the Apostles speakes of the <hi>Foundation of Repentance, and the Doctrine of Baptismes;</hi> and in this Text, our new translation followes <hi>Beza,</hi> who hath varied from the Originall, by putting the conditionall (<hi>si,</hi> if) in stead of the copulative (<hi>et,</hi> and) and by adding the causall <hi>(ut:)</hi> so that where<g ref="char:EOLhyphen"/>as <hi>Beza</hi> and our translation is,
+<q>
+                     <hi>Si prolabantur — ut qui crucifigant;</hi>
+                  </q>
+                  <q>If they fall away — seeing they crucifie:</q>
+               </p>
+               <p>The <hi>Greeke</hi> and vulgar <hi>Latine</hi> is,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> — <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</q>
+                  <q>
+                     <hi>Et prolapsi sunt—crucifigentes;</hi>
+                  </q>
+                  <q>And falling—Crucifying againe.</q>
+               </p>
+               <p>For the word doth not signifie to <hi>fall away,</hi> but to <hi>fall casually,</hi> or <hi>negligently:</hi> so <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Gal.</hi> 6. is translated a <hi>fault,</hi> and not a <hi>falling away.</hi>
+               </p>
+               <p>The second Text is, <hi>Heb.</hi> 10.26. <hi>For if wee sinne willingly, or wilfully, after wee have received the know<g ref="char:EOLhyphen"/>ledge of the Truth, there remaineth no more Sacrifice for Sinne. Answ.</hi> I say with <hi>Chrysostome, Ambrose,</hi> and
+<pb n="10" facs="tcp:159515:7"/> other Fathers, the sense is, wee must not expect another <hi>Christ</hi> to dye for us, or that he who hath once died, should come againe to dye for us.</p>
+               <p>The third Text is, 1 <hi>Iohn</hi> 5.16. <hi>There is a Sinne unto Death, I doe not say yee shall pray for it:</hi> Saint <hi>Ierome</hi> saith, that nothing else is heere meant, but that a Prayer for a sinne unto death, is very hardly or difficultly heard: and this seemes to be the truest sense of this place; for Saint <hi>Iohn</hi> saith im<g ref="char:EOLhyphen"/>mediately before, <hi>wee know that wee have the Peti<g ref="char:EOLhyphen"/>tions that wee desired of him:</hi> therefore least wee should thinke this to hold true in all Petitions whatsoever, which wee offer for others, he addes; <hi>If any man see his Brother sinne a sinne, which is not unto Death, he shall aske, and he shall give him life:</hi> that is, let him aske with Confidence, for he shall obtaine: but if it be a sinne unto Death, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is, a great sinne, such an one as is not ordi<g ref="char:EOLhyphen"/>narily pardoned, but punished with Death, <hi>I doe not say yee shall pray for it;</hi> that is, I doe not pro<g ref="char:EOLhyphen"/>hibit you to pray, but I dare not promise that you shall easily obtaine; therefore, <hi>I doe not say yee shall pray,</hi> that is, with that confiden<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of ob<g ref="char:EOLhyphen"/>taining: for often, in such cases, God doth not heare the Prayers of the Saints; as God saith, <hi>Ier.</hi> 7.16. <hi>Pray not thou for this people, for I will not heare thee.</hi>
+               </p>
+               <p>If these expositions upon the former Tears be sound, the definition of the <hi>sinne against the Holy-Ghost</hi> cannot be grounded upon all, or any of
+<pb n="11" facs="tcp:159515:7"/> them; for, as it is not once named, so it cannot be intended in any of them: he that will find fault with these interpretations, it is reason he should bring better, and more agreeable to the literall sense and coherence and scope of Text, and such I should gladly learne.</p>
+               <p>It seemes the probability of the exposition of the first place, <hi>Heb.</hi> 6. is so great, that a learned Divine, who produceth this Text, for proofe of his definition of the <hi>sinne against the Holy-Ghost,</hi> doth confesse against himselfe, that the Apostle in this place <hi>denyeth a second Baptisme, when he speakes of Repentance, because they are mentioned together in the same place, and have some affi<g ref="char:EOLhyphen"/>nity and correspondence.</hi>
+               </p>
+               <p>As for the second Text, <hi>Heb.</hi> 10. I must con<g ref="char:EOLhyphen"/>fesse, that if Saint <hi>Paul</hi> in this place meant the <hi>sinne against the Holy-Ghost,</hi> that then this were the onely desperate Text in the whole Bible; for what man is there that si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes not <hi>willingly?</hi> for so the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doth properly signifie: <hi>Beza</hi> translates it <hi>ultro,</hi> the vulgar Latine <hi>voluntarie, volunta<g ref="char:EOLhyphen"/>rily,</hi> or <hi>willingly,</hi> not <hi>wilfully</hi> and <hi>obstinately:</hi> It is but a miserable comfort, when Saint <hi>Paul</hi> saith, <hi>if wee sinne willingly,</hi> for Master <hi>Calvin</hi> to tell us, that the Text doth not meane every <hi>willing sinne,</hi> but onely <hi>a malicious resisting of the Truth:</hi> could not Saint <hi>Paul,</hi> as easily as Master <hi>Calvin,</hi> have said, <hi>if wee sinne maliciously,</hi> as say, <hi>if wee sinne willingly?</hi>
+                  <pb n="12" facs="tcp:159515:8"/> My comfort is, that if the Text be advisedly con<g ref="char:EOLhyphen"/>sidered, there is no such thing as the <hi>sinne against the Holy-Ghost,</hi> or any other desperate conclusion to be found in the Text: the scope of the prece<g ref="char:EOLhyphen"/>dent verses, doe evidently expound the Apostles meaning to be this; to let the <hi>Jewes</hi> know, that the case was not now with them, as it was under the <hi>Law;</hi> for under the <hi>Law</hi> they had dayly sacrifices for sinnes, but now, under the <hi>Gospel,</hi> they had but one sacrifice once for all: <hi>every Priest standeth dayly ministring, and offering oftentimes the same Sa<g ref="char:EOLhyphen"/>crifice; but this man, after he had offered one Sacri<g ref="char:EOLhyphen"/>fice, for ever sat downe at the right hand of God,</hi> as it is in the eleventh verse of the same Chapter; which may serve for a Comment upon the verse now in question: and it is worth our noting, that the Text doth not say, <hi>if wee sinne willingly, there is no Sacrifice;</hi> this had beene a hard saying indeed: but the words are, <hi>there remaines no more Sacrifice:</hi> there is some comfortable difference, I hope, be<g ref="char:EOLhyphen"/>tweene these two propositions; <hi>there is no Sacrifice,</hi> and, <hi>there remaines no more Sacrifice:</hi> so that if wee doe not believe in that one <hi>Sacrifice</hi> as sufficient, but looke every day for a new <hi>Sacrifice</hi> for every new <hi>sinne,</hi> wee must <hi>expect nothing but Iudge<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>As to the third place, 1 <hi>Iohn</hi> 5.16. Many would conclude, that there is a <hi>sinne</hi> for which wee may not pray, because it is irremissible, and this they thinke must needs be the <hi>sinne against the Holy-Ghost</hi>
+                  <pb n="13" facs="tcp:159515:8"/> meant by Saint <hi>Iohn:</hi> their best Argument is, that <hi>Iohns not saying that wee shall pray,</hi> is a saying, that <hi>wee shall not pray;</hi> his silence is to them a prohibi<g ref="char:EOLhyphen"/>tion: But this is bad <hi>Grammar,</hi> and worse <hi>Logique;</hi> for wee find that Saint <hi>Stephen</hi> prayed for them that stoned him, and yet told them that they resisted <hi>the Holy-Ghost;</hi> and Saint <hi>Peter</hi> exhorted <hi>Simon Ma<g ref="char:EOLhyphen"/>gus</hi> to repentance, and yet both he and those that stoned <hi>Stephen,</hi> are commonly reputed sinners <hi>against the Holy Ghost:</hi> Saint <hi>Ambrose</hi> is of that charitable judgement, that he thinks <hi>the sinne against the Holy-Ghost</hi> may be pardoned by repentance; because the people of the <hi>Iewes,</hi> who had said of Christ, <hi>he casts out the Divell by Belzebub, the prince of Divells;</hi> afterwards, at the preaching of Saint <hi>Peter,</hi> are said to be converted, in the second of the <hi>Acts.</hi> Saint <hi>Austine</hi> in his <hi>Retractations</hi> con<g ref="char:EOLhyphen"/>cludes, <hi>that wee must despaire of no man, no not of the wickedest, as long as he lives, and wee way safely pray for him of whom wee doe not despaire:</hi> for though it be expressely said, <hi>that the Blasphemie against the Holy-Ghost</hi> shall not be forgiven; yet these words may justly receive a <hi>qualification,</hi> if wee will but allow the same mitigation of the sense of these words, which all men confesse wee must needes allow to the precedent words in the same verse, to which these have relation; where it is said gene<g ref="char:EOLhyphen"/>rally, <hi>All Sinnes and all Blasphemies shall be forgiven to men:</hi> it cannot mea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, that <hi>all sinnes, all wayes, and to all men,</hi> for then no sinne could be damnable, but <hi>the Blasphemie against the Holy-Ghost;</hi> which is
+<pb n="14" facs="tcp:159515:9"/> most false: and therefore the sense must be, <hi>all sinnes shall be forgiven</hi> ordinarily, or for the most p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt; so on the contrary, the <hi>Blasphemie against the Holy-Ghost shall not ordinarily, or hardly be forgiven.</hi> Even those that are most strict, for to maintaine the <hi>sinne against the Holy-Ghost</hi> to be unpardonable, will yet acknowledge, that sometimes in Scripture <hi>an impossibility is used to note a difficulty, and those things are spoken indefinitely of all, which properly be<g ref="char:EOLhyphen"/>long to a part onely:</hi> thus the difficultie of the rich mans entring into the Kingdome of Heaven, is presented unto us by our <hi>Saviour,</hi> under the simili<g ref="char:EOLhyphen"/>tude of an impossibilitie.</p>
+            </div>
+            <div type="part">
+               <p>HAving dispatched these Texts of Scripture, which doe either name, or are thought to concerne the <hi>Blasphemie,</hi> or <hi>Sinne against the Holy-Ghost;</hi> it remaines to examine all those common definitions of this <hi>sinne,</hi> which are now currant: and though there be some difference among Di<g ref="char:EOLhyphen"/>vines in the tearmes, by which they define it; some calling it <hi>a totall, or finall falling from Faith, or a wilfull apostasie, or a malicious resisting of the Truth:</hi> yet, when they all come to explaine their meaning, the difference among them is not con<g ref="char:EOLhyphen"/>siderable.</p>
+               <p>I shall therefore chiefly apply my selfe to exa<g ref="char:EOLhyphen"/>mine Master <hi>Calvins</hi> definition, because his judge<g ref="char:EOLhyphen"/>ment
+<pb n="15" facs="tcp:159515:9"/> hath gained the greatest reputation amongst the multitude: As for that, he himselfe promiseth such a <hi>true definition, which shall easily by it selfe overthrow all the rest:</hi> in his Institutions, <hi>lib.</hi> 3. <hi>cap.</hi> 3. he saith, <hi>They sinne against the Holy-Ghost, Qui divinae veri<g ref="char:EOLhyphen"/>tatis (cujus fulgore sic perst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inguntur ut ignorantiam causari nequeant) tamen destinata malitia resistunt in hoc tantum ut resistant.</hi>
+               </p>
+               <p>The Rhetoricall <hi>Parenthesis</hi> (which might well have beene spared in a definition) being reduced in<g ref="char:EOLhyphen"/>to plaine and briefe tearmes, this definition of Ma<g ref="char:EOLhyphen"/>ster <hi>Calvin</hi> may be thus in English: <hi>They sinne against the Holy-ghost, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho of determined malice resist the known truth of God to the end onely to resist.</hi>
+               </p>
+               <p>In this definition, Master <hi>Calvin</hi> doth not define <hi>what</hi> the Sinne is, but <hi>who</hi> they are that commit it; whereas by the Rules of Logick, <hi>Concretes</hi> admit of no true definition, but onely <hi>Abstracts.</hi> But taking the definition as it is, it <hi>consists</hi> principally upon these three tearmes: First, <hi>Truth:</hi> Secondly, <hi>Known:</hi> Thirdly, <hi>Resisted,</hi> or a <hi>resisting of the knowne Truth.</hi> These words being generall and doubtfull tearmes, I shall consider them severally.</p>
+               <p>First, If by the <hi>Truth of God,</hi> Master <hi>Calvin</hi> doe understand the <hi>Word of God,</hi> or the whole Doctrine of God revealed in <hi>Scripture,</hi> then the sense of this tearme will be too large: For even the <hi>Pharisees</hi> that <hi>spake against the Holy-Ghost,</hi> did not resist the <hi>whole Truth of God in the Scripture,</hi> for they believed in the Law of <hi>Moses,</hi> and had confidence to be saved by observing of it; and in defence of that <hi>Law</hi> (as they thought) they did blaspheme the <hi>Holy-Ghost.</hi> There<g ref="char:EOLhyphen"/>fore
+<pb n="16" facs="tcp:159515:10"/> properly by the <hi>Truth of God,</hi> Master <hi>Calvin</hi> must confine his meaning to the truth of the <hi>Gospel,</hi> or doctrine of <hi>Faith;</hi> for so both he himselfe and others expound themselves, by tearming the <hi>Sinne against the Holy-Ghost, a falling away or turning a<g ref="char:EOLhyphen"/>way from faith, or apostasie.</hi>
+               </p>
+               <p>Secondly, by this word <hi>Knowne,</hi> Master <hi>Calvin</hi> must meane <hi>believed;</hi> for faith is properly by beleeving, and not by knowing the truth.</p>
+               <p>Thirdly, The word <hi>Resisting</hi> must meane <hi>unbelee<g ref="char:EOLhyphen"/>ving;</hi> For if the receiving the <hi>Truth</hi> be by beliefe, then resisting of it must be by unbeliefe: and indeed so Master <hi>Calvin</hi> explaines himselfe in the same chap<g ref="char:EOLhyphen"/>ter, saying, <hi>There is no place for pardon where knowledge is joyned with unbeliefe; Non esse veniae locum ubi scientia ad incredulitatem accessit.</hi> So then, by this definition, to resist the <hi>Knowne Truth</hi> is all one, as if Master <hi>Calvin</hi> would have said, in proper and significant tearmes, for a <hi>man at once to unbelieve that which he doth believe:</hi> which two things it is impossible for any man to doe together; and if they be not together, there can be no resistance.</p>
+               <p>It is true, that for some reasons somtimes a man may be brought not to beleeve that which he formerly be<g ref="char:EOLhyphen"/>lieved; but this cannot be in an instant, but suc<g ref="char:EOLhyphen"/>cessively <hi>unbeliefe</hi> comes in the place of <hi>beliefe:</hi> and this may not be called resisting; for that a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l resi<g ref="char:EOLhyphen"/>stance consists in a violence between two at the least: but where two succeed one another, and are never together, it cannot possibly be. I confesse, a man may resist the truth, when it is either a <hi>truth</hi> in it selfe onely, or in the understanding of some other;
+<pb n="17" facs="tcp:159515:10"/> but to resist the truth which is knowne, which is beleeved by the resister himselfe, is a direct contra<g ref="char:EOLhyphen"/>diction: For the nature of truth is such, that if the understanding doe apprehend it for true, it cannot but assent unto it; No man can force himselfe to beleeve what he lists, or when he lists: Sometimes a man knowes not what to beleeve, but finds a sus<g ref="char:EOLhyphen"/>pension of his faith, or a trepidation of his un<g ref="char:EOLhyphen"/>derstanding, not discerning which way to turne; this cannot bee called a resisting of the <hi>Kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wne Truth,</hi> where the truth is not knowne, but doubted of.</p>
+               <p>Againe, some truths there be, which although they bee assented unto by the understanding for truths, yet they are not desired as good: for truth is one degree neerer of affinitie to the soule of man then goodnesse: The <hi>Pharis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es</hi> did apprehend the Miracles of our Saviour as true, but not as good, because they tended to the derogation of their <hi>Law,</hi> which they esteemed a <hi>better truth;</hi> and for this cause they blasphemed that truth, which in their hearts they beleeved to be true: For, the truth of words or speech is (as the Schooles say) nothing else but the signe of truth, and not truth it selfe; for truth it selfe is seated in the understanding, and not in speech. That truth which the understanding assents unto, the speech may affirme to bee false; there are many things beleeved in <hi>Deed,</hi> which are denyed in <hi>word;</hi> but such denyall is not a resisting, but onely a making shew of resistance of truth: For the resistance must be in the same place where the truth is: truth being seated in the understan<g ref="char:EOLhyphen"/>ding, the resistance must be placed there also; the
+<pb n="18" facs="tcp:159515:11"/> understanding can resist no truth, but by unbeleeving onely.</p>
+               <p>If Master <hi>Calvin</hi> had intended a <hi>resisting of the truth</hi> onely <hi>in word,</hi> he had come one step neerer to the truth of the <hi>Scripture;</hi> but he was not so happy in the expression of his meaning: Nay, his tearmes of <hi>incredulitie, apostasie, falling away,</hi> and the like, relate to a reall, and not a verball apostasie and un<g ref="char:EOLhyphen"/>beliefe.</p>
+               <p>It remaines then to my understanding, that Master <hi>Calvin</hi> makes <hi>the resisting of the Truth to be a not be<g ref="char:EOLhyphen"/>lieving of that which wee doe believe:</hi> which being a contradiction, he defines the <hi>sinne against the Holy-Ghost</hi> to be such a <hi>sinne,</hi> as no man possibly can com<g ref="char:EOLhyphen"/>mit. And yet on the other extreame, in expounding his owne definition, he makes it such a <hi>sinne</hi> as no man living but commits; for by his Doctrine (as I take it) any <hi>sinne</hi> may be the <hi>sinne against the Holy-Ghost;</hi> his words are these: <hi>Quorum convicta esse con<g ref="char:EOLhyphen"/>scientia, verbum Dei esse quod repudiant, et impugnant, impugnare tamen non desinunt, illi in, spiritum blasphe<g ref="char:EOLhyphen"/>mari dicuntur; They are said to blaspheme the Spirit, whose consciences are convinced that it is the Word of God, which they forsake and impugne, and yet cease not to impugne it.</hi>
+               </p>
+               <p>What man is there, that doth not daily in some point or other forsake the Word of God, and cea<g ref="char:EOLhyphen"/>ses not to impugne it, and is convinced thereof in his conscience? I know Master <hi>Calvin</hi> was farre from thinking, that Saint <hi>Paul</hi> did <hi>sinne against the Holy-Ghost;</hi> yet Saint <hi>Paul</hi> was convinced it seemes in his
+<pb n="19" facs="tcp:159515:11"/> conscience, that it was the word of God which he did fight against, and yet ceased not to fight against it, when he saith: <hi>he delighted in the Law of God, yet another Law warring against the Law of his mind, brought him into Captivitie to the Law of sinne.</hi> What dangerous inferences weake consciences may draw upon themselves out of this unbridled and unlimi<g ref="char:EOLhyphen"/>ted proposition of Master <hi>Calvins,</hi> let others judge?</p>
+               <p>There is just cause, I presume, to except against Master <hi>Calvin,</hi> and all others who in this concurre with him, to omit the tearme of <hi>Blasphemie</hi> in their definition, for that it is perpetually observed in the speech of our <hi>Saviour</hi> concerning this <hi>sinne</hi> by the <hi>Evangelists</hi> with one consent: but for the word <hi>Blasphemie,</hi> he hath brought into the definition the word <hi>resist</hi> for <hi>a genus</hi> of this <hi>sinne,</hi> but by what autho<g ref="char:EOLhyphen"/>rity, I know not; I cannot find it, or the equiva<g ref="char:EOLhyphen"/>lent to it, in any of those places which are thought to touch this <hi>sinne:</hi> I find onely <hi>falling away</hi> mentioned <hi>Heb.</hi> 6. which phrase is used by Master <hi>Calvin</hi> for resi<g ref="char:EOLhyphen"/>sting, whereas <hi>falling away,</hi> and <hi>resisting,</hi> are no more like then <hi>fighting</hi> and <hi>running away,</hi> which are little lesse then contraries.</p>
+               <p>The last point I will touch in M. <hi>Calvins</hi> definition is that, where he saith, the <hi>sinners against the Holy-Ghost resist, to the end onely to resist,</hi> and yet withall he tells us, they <hi>resist</hi> out of <hi>a determined malice:</hi> if their resi<g ref="char:EOLhyphen"/>stance proceed from malice, then the end for which they resist, is the satisfaction of their malice. The <hi>Pharisees,</hi> who are condemned by our Saviour for this Crime, had another end, besides bare resi<g ref="char:EOLhyphen"/>sting;
+<pb n="20" facs="tcp:159515:12"/> the defence of the Law of <hi>Moses,</hi> was the end for which they <hi>Blasphemed,</hi> and not any pleasure they could take in the sole and simple act of re<g ref="char:EOLhyphen"/>sisting,</p>
+            </div>
+            <div type="part">
+               <p>WEE find three old opinions concerning the <hi>sinne against the Holy-Ghost,</hi> but they were long since exploded, I will but onely name them.</p>
+               <p>First, Saint <hi>Origen</hi> thought all <hi>sinnes</hi> committed after <hi>Baptisme,</hi> to be <hi>sinnes against the Holy-Ghost:</hi> his reason w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s onely a wittie conceit of his owne; that <hi>God the Father is in all things, <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Sonne is onely in all reasonable creatures, the Holy Ghost is onely in all regene<g ref="char:EOLhyphen"/>rate men</hi> therefore when men <hi>sinne</hi> against that Divine Person that is in them, if they be heathens, they <hi>sinne</hi> against God the <hi>Father,</hi> or the <hi>Sonne;</hi> if they be Christians, they <hi>sinne against the Holy-Ghost.</hi> The <hi>Nova<g ref="char:EOLhyphen"/>tian Heretiques</hi> agreed with <hi>Origen</hi> in opinion; for they denied remission of <hi>sinnes</hi> to any that fell, think<g ref="char:EOLhyphen"/>ing <hi>all falls</hi> of Christians to be the <hi>sin against the Holy-Ghost:</hi> but this opinion is false; For else all <hi>sinnes</hi> were unpardonable to Christians: yet wee find Saint <hi>Paul</hi> remit the <hi>sinne</hi> of the incestuous <hi>Corin<g ref="char:EOLhyphen"/>thian;</hi> also our <hi>Saviour</hi> chargeth the <hi>Pharisees</hi> with this <hi>sinne,</hi> who were no Christians.</p>
+               <p>Secondly, Saint <hi>Austin</hi> though <hi>finall impenitencie</hi> to be the <hi>sinne against the Holy Ghost;</hi> but <hi>finall impe<g ref="char:EOLhyphen"/>nitencie</hi>
+                  <pb n="21" facs="tcp:159515:12"/> is no <hi>Blasphemie,</hi> but onely a generall circum<g ref="char:EOLhyphen"/>stance that may accompany any <hi>sinne.</hi> Besides, our <hi>Saviour</hi> intends, that this <hi>sinne</hi> may be found in this life; for he saith, it shall not be forgiven in this life, and the <hi>Pharisees</hi> were alive when they were accu<g ref="char:EOLhyphen"/>sed of it.</p>
+               <p>Thirdly, P. <hi>Lombard,</hi> and <hi>T. Aquinas,</hi> thought <hi>sinnes</hi> of malice to be the <hi>sinne against the Holy-Ghost,</hi> and <hi>sinnes</hi> of infirmity against the <hi>Father,</hi> and <hi>sinnes</hi> of ignorance against the <hi>Sonne.</hi> This opinion is false, because the <hi>sinne against the Holy-Ghost</hi> must be a <hi>sinne</hi> of some certaine <hi>Blasphemie;</hi> but malice is no certaine <hi>sinne,</hi> but a generall, and it is not al<g ref="char:EOLhyphen"/>wayes a <hi>Blasphemie.</hi>
+               </p>
+               <p>The six differences the Schoole-men make of <hi>the sinne against the Holy-Ghost,</hi> are: First, <hi>Envying of our Brothers grace:</hi> Secondly, <hi>Impugning the Knowne Truth:</hi> Thirdly, <hi>Desperation,</hi> Fourthly, <hi>Presump<g ref="char:EOLhyphen"/>tion:</hi> Fifthly, <hi>Obstinacy:</hi> Sixthly, <hi>Finall impeni<g ref="char:EOLhyphen"/>tency.</hi>
+               </p>
+               <p>
+                  <hi>In this Determination, of the Poynt of</hi> Blasphemy a<g ref="char:EOLhyphen"/>gainst the Holy Ghost, <hi>and the inquiry made into Ma<g ref="char:EOLhyphen"/>ster</hi> Calvins <hi>and others new definition of it; I hope I have delivered nothing contrary to the Doctrine of the</hi> Articles <hi>of the</hi> Church <hi>of</hi> England.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
